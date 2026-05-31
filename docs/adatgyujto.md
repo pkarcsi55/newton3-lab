@@ -1,6 +1,6 @@
 # ESP32 + HX711 Bluetooth erőmérő adatgyűjtő
 
-Ez a dokumentum a [hx711_force_bt_sender.ino](src/ESP32_code/hx711_force_bt_sender.ino) program alapján készült rövid, szerkeszthető leírás. A modul a Newton 3 Lab projekthez használható Bluetooth-os erőmérő egységként.[ESP32 HX711 Bluetooth küldő kód](src/esp32/hx711_force_bt_sender.ino)
+Ez a dokumentum a [hx711_force_bt_sender.ino](ESP32_code/hx711_force_bt_sender.ino) program alapján készült rövid, szerkeszthető leírás. A modul a Newton 3 Lab projekthez használható Bluetooth-os erőmérő egységként.[ESP32 HX711 Bluetooth küldő kód](src/esp32/hx711_force_bt_sender.ino)
 
 ## 1. A mérőegység feladata
 
