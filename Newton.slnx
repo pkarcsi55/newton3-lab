@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="help.txt" />
+    <File Path="Newton/bin/Debug/net10.0-windows/setting.txt" />
+  </Folder>
+  <Project Path="Newton/Newton.csproj" />
+</Solution>
