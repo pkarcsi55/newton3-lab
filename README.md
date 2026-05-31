@@ -1,3 +1,47 @@
+# Newton 3 – Force and Accelerometer Lab
+
+Educational C# Windows Forms application for classroom physics experiments.
+
+The software visualizes:
+
+- force
+- reaction force
+- smartphone accelerometer data
+
+in real time.
+
+Its main goal is to demonstrate Newton’s third law and acceleration measurements in a simple classroom environment.
+
+---
+
+## Main features
+
+✔ real-time graph display
+
+✔ two force channels
+
+✔ smartphone accelerometer integration
+
+✔ measurement reset / clear graph
+
+✔ suitable for physics classroom demonstrations
+
+---
+
+## Typical experiments
+
+- Newton’s third law (force / reaction force)
+- pulling and pushing
+- collision experiments
+- acceleration vs force
+- smartphone motion measurements
+
+---
+
+## Screenshot
+
+![Newton 3 Lab screenshot](images/utkzes.png)
+
 ## Operating modes
 
 Newton 3 Lab supports two main measurement modes.
